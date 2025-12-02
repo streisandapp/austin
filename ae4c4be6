@@ -1,0 +1,38 @@
+{
+  "routing_asset": {
+    "geoip.dat": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/geoip.dat",
+    "geosite.dat": "https://raw.githubusercontent.com/v2fly/domain-list-community/release/dlc.dat"
+  },
+  "ads": {
+    "excluded": [],
+    "units": [
+      {
+        "cc": "*",
+        "id": "ca-app-pub-9040644938511542/2377335994",
+        "enable": "0",
+        "latest": "0",
+        "onOpen": "0",
+        "tunnel": "100",
+        "interval": 7200
+      },
+      {
+        "cc": "IR",
+        "id": "ca-app-pub-9040644938511542/9140373284",
+        "enable": "0",
+        "latest": "0",
+        "onOpen": "0",
+        "tunnel": "100",
+        "interval": 7200
+      },
+      {
+        "cc": "RU",
+        "id": "ca-app-pub-9040644938511542/8661572152",
+        "enable": "0",
+        "latest": "0",
+        "onOpen": "0",
+        "tunnel": "100",
+        "interval": 7200
+      }
+    ]
+  }
+}
